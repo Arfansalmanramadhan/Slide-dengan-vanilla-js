@@ -1,0 +1,35 @@
+body {
+  background-color: rgba(235, 235, 22, 0.904);
+}
+.container {
+  width: 800px;
+  /* margin: 0.35em 0.735em; */
+  margin: auto;
+  /* margin: auto; */
+  /* text-align: center; */
+}
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 12px;
+}
+.slide {
+  text-align: center;
+  display: block;
+  background-color: rgb(204, 198, 198);
+  border-radius: 1%;
+  overflow: hidden;
+  border: solid black 2px;
+}
+.body {
+  font-size: 1.5em;
+  margin-right: 32em;
+  margin-top: 8px;
+}
+.judul {
+  padding-bottom: 2em;
+}
+.slide img {
+  width: 100%;
+  /* border-radius: 1%; */
+}
